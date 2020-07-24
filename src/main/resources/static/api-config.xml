@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<!--    <rootUrl>http://apis.baidu.com</rootUrl>-->
+    <rootUrl>http://cbt.shangjin618.com/lianxin-botserver/dialog/</rootUrl>
+    <headers>
+        <!-- 配置为自己的参数 -->
+        <header name="Content-Type" value="application/json"></header>
+    </headers>
+    <params>
+
+    	<param name="token" value="4DBA46139BBD395B8B846C4FEA320927C5AF505A36CC0EE96683CE53AB0D5F6C03"></param>
+    	<param name="channel" value="02"></param>
+    </params>
+
+    <project_name>接口自动化测试报告</project_name>
+</root>
